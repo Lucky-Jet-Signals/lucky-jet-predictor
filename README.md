@@ -2,7 +2,7 @@
 
 This repository covers everything about the **Lucky Jet Signals** bot—a powerful tool designed to predict Safe Cash-Out multipliers in the popular crash-style casino game **Lucky Jet**. Find out how it works, why players love it, and how to use it to boost your gameplay strategy.
 
-[![GET SIGNAL BOT 🚀](https://img.shields.io/badge/GET_SIGNAL_BOT-007BFF?style=for-the-badge&logo=rocket)](https://example.com/get-lucky-jet-bot)
+[![GET SIGNAL BOT 🚀](https://img.shields.io/badge/GET_SIGNAL_BOT-007BFF?style=for-the-badge&logo=rocket)](https://t.me/LitLuckyJetBot)
 
 ---
 
